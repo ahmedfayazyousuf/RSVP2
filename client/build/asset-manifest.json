@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e2e848f.css",
+    "main.js": "/static/js/main.1981007a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/nislogo.png": "/static/media/nislogo.eab0cea087baebcbab85.png",
+    "static/media/NissanBrand-Regular.ttf": "/static/media/NissanBrand-Regular.11cfe4343c47e6adcd0f.ttf",
+    "static/media/NissanBrand-Bold.ttf": "/static/media/NissanBrand-Bold.267f20de3b9cff912310.ttf",
+    "static/media/nislap.png": "/static/media/nislap.fd1ed4c1475e8734647b.png",
+    "static/media/mobleft.png": "/static/media/mobleft.1de06de7ebe12f216332.png",
+    "static/media/nismob.png": "/static/media/nismob.4dea45bc9100dca8289a.png",
+    "static/media/nissanlogo.png": "/static/media/nissanlogo.7659407bbf82ca2bb73b.png",
+    "index.html": "/index.html",
+    "main.7e2e848f.css.map": "/static/css/main.7e2e848f.css.map",
+    "main.1981007a.js.map": "/static/js/main.1981007a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2e848f.css",
+    "static/js/main.1981007a.js"
+  ]
+}
