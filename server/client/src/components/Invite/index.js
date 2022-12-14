@@ -14,7 +14,7 @@ const Invited = () => {
     const handleShow = () => setShow(true);
 
     const getData = async () =>{
-        const res = await fetch(`http://localhost:4000/user_all`, {
+        const res = await fetch(`/user_all`, {
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -33,7 +33,7 @@ const Invited = () => {
         var name = document.getElementById("text").value
         try {
                 
-            axios.post("http://localhost:4000/send_mail", {
+            axios.post("/send_mail", {
                to,
                name
            })
