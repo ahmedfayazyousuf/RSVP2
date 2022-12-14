@@ -34,7 +34,7 @@ app.use(express.static(static_path));
 
 app.use(cors({
     origin: "*",
-));
+}));
 
 // const job = schedule.scheduleJob('*/20 * * * * *', function(){
 //     User.find({Status: "NA"}).then((user) => {
