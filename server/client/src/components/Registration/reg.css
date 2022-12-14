@@ -1,0 +1,56 @@
+.flex-container {
+    display: flex;
+}
+
+
+
+
+
+label {
+    justify-self: flex-start;
+
+    margin-right: 10px;
+    margin-bottom: 5px;
+    text-align: right;
+    font-size: 90%;
+}
+
+.block{
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+input{
+    text-align: left;
+
+}
+
+.labelx {
+    text-align: left;
+}
+    
+
+.buttt {
+background-color: white;
+color: black;
+border: 2px solid black;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.butt:hover {
+background-color: black;
+color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .flex-container2{
+        flex-direction: column;
+    }
+    label{
+        color: red;
+    }
+  }
+    
